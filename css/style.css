@@ -28,16 +28,16 @@ header div img{
 }
 
 ul{
-    width: 100%;
+    /* width: 100%; */
     list-style: none;
-    height: 50px;
+    /* height: 30px; */
     margin: 0 10%;
     box-decoration-break: none;
     border-radius: 5px;
 }
 
-ul li a{
-    
+ul li a{    
+    font-weight: bold;
     background-color: var(--cor-azul-marinho);
     padding: 10px;
     text-decoration: none;
